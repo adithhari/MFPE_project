@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = InventoryManagement.Domain
+build_property.ProjectDir = D:\Microservices\InventoryManagement\InventoryManagement.Domain\
