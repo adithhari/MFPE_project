@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0N+yVT/bRBABhf1wEbpOJ+tCv6n9P2oed5r5pCfFdqGu4b3fgNBAWPJpR7upuwOQVDN2FWpeqF2bwYb/JKhJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sherin\\Desktop\\MFPE\\InventoryManagement - Updated\\InventoryManagement (2)\\InventoryManagement\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sherin\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sherin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

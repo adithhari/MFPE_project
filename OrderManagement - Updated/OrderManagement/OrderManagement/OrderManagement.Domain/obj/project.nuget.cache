@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l1f9lCPdPyckRVO+dASxR6caw6I/4XuwZx1a4cPeQGa8xSwKf6AhpV6v6wqoYPw+lLE6Xx/w8l7fEpjW2xOXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sherin\\Desktop\\MFPE\\OrderManagement - Updated\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sherin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

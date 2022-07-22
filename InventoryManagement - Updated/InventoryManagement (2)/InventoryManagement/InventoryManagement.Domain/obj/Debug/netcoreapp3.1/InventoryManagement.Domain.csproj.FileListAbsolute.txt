@@ -1,0 +1,79 @@
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Shabana Farhath\OneDrive\Desktop\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Shabana Farhath\Downloads\Project CTS(New) (1)\Project CTS\Project CTS\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Working_On Stack\Inventory Microservice\shabana\InventoryManagement-new\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Working_On Stack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csprojAssemblyReference.cache
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\adith\Desktop\Working_OnStack\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Shabana Farhath\Downloads\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb

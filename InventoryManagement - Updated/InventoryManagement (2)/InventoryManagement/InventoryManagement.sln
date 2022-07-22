@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.Domain", "InventoryManagement.Domain\InventoryManagement.Domain.csproj", "{A48DC79D-4712-4F8D-BA4B-F3D47EFA34F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5FEE8405-88E7-4266-8D28-39FE97A1BC63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CA03A25F-B986-4226-892D-46F7FB60DD29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.Infrastructure", "InventoryManagement.Infrastructure\InventoryManagement.Infrastructure.csproj", "{F2A78982-25CA-4B06-BAE3-B1735B36714E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.API", "InventoryManagement.API\InventoryManagement.API.csproj", "{CBF2AA25-3804-474E-B13C-CCF972EAFF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Domain.Tests", "InventoryManagement.Domain.Tests\InventoryManagement.Domain.Tests.csproj", "{4FA4910C-89BE-43D3-975D-7BB8BA82D959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.API.Tests", "InventoryManagement.API.Tests\InventoryManagement.API.Tests.csproj", "{D4DFD48A-6DFA-4299-8812-FED6FCCBA7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48DC79D-4712-4F8D-BA4B-F3D47EFA34F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48DC79D-4712-4F8D-BA4B-F3D47EFA34F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48DC79D-4712-4F8D-BA4B-F3D47EFA34F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48DC79D-4712-4F8D-BA4B-F3D47EFA34F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A78982-25CA-4B06-BAE3-B1735B36714E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A78982-25CA-4B06-BAE3-B1735B36714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A78982-25CA-4B06-BAE3-B1735B36714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A78982-25CA-4B06-BAE3-B1735B36714E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF2AA25-3804-474E-B13C-CCF972EAFF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF2AA25-3804-474E-B13C-CCF972EAFF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF2AA25-3804-474E-B13C-CCF972EAFF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF2AA25-3804-474E-B13C-CCF972EAFF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA4910C-89BE-43D3-975D-7BB8BA82D959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA4910C-89BE-43D3-975D-7BB8BA82D959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA4910C-89BE-43D3-975D-7BB8BA82D959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA4910C-89BE-43D3-975D-7BB8BA82D959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DFD48A-6DFA-4299-8812-FED6FCCBA7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DFD48A-6DFA-4299-8812-FED6FCCBA7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DFD48A-6DFA-4299-8812-FED6FCCBA7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DFD48A-6DFA-4299-8812-FED6FCCBA7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A48DC79D-4712-4F8D-BA4B-F3D47EFA34F0} = {5FEE8405-88E7-4266-8D28-39FE97A1BC63}
+		{F2A78982-25CA-4B06-BAE3-B1735B36714E} = {5FEE8405-88E7-4266-8D28-39FE97A1BC63}
+		{CBF2AA25-3804-474E-B13C-CCF972EAFF69} = {5FEE8405-88E7-4266-8D28-39FE97A1BC63}
+		{4FA4910C-89BE-43D3-975D-7BB8BA82D959} = {CA03A25F-B986-4226-892D-46F7FB60DD29}
+		{D4DFD48A-6DFA-4299-8812-FED6FCCBA7FF} = {CA03A25F-B986-4226-892D-46F7FB60DD29}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1B7931-57BC-404C-83CE-25110950C06A}
+	EndGlobalSection
+EndGlobal
