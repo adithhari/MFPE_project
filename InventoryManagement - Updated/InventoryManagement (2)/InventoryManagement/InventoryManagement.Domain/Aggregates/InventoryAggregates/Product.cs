@@ -18,7 +18,7 @@ namespace InventoryManagement.Domain.Aggregates.InventoryAggregates
 
         public Product(string name, string description, int availableQuantity, int price, Category category )
         {
-            //this.category.Id = categoryId;
+
             this.category = category;
 
             this.Name = name;

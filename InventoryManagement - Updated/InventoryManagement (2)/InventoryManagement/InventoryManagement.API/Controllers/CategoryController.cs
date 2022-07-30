@@ -24,6 +24,7 @@ namespace InventoryManagement.API.Controllers
             this.categoryRepository = categoryRepository;
         }
 
+
         [HttpPost]
         [ProducesResponseType(201)]
         public async Task<IActionResult> AddCategory(CategoryDTO dto)
@@ -36,7 +37,7 @@ namespace InventoryManagement.API.Controllers
 
         [HttpGet]
         [ProducesResponseType(200, Type = typeof(List<CategoryDTO>))]
-        //[Authorize(Roles = "Admin")]
+
         public IActionResult GetCategory()
         {
             var categories = categoryRepository.Get();
@@ -59,7 +60,14 @@ namespace InventoryManagement.API.Controllers
             if (category == null)
                 return NotFound();
 
-            return Ok(category);
+            var categoryDto = new CategoryDTO()
+            {
+                Id = category.Id,
+                CategoryName = category.CategoryName,
+                CatgoryDescription = category.CategoryDescription,
+
+            };
+            return Ok(categoryDto);
 
         }
 

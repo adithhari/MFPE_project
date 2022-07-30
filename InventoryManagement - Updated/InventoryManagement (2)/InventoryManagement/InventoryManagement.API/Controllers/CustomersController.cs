@@ -79,17 +79,12 @@ namespace InventoryManagement.API.Controllers
             var customer = customerRepository.GetById(id);
             if (customer == null)
                 return NotFound();
-            //customer.UpdateCustomer(obj.PhoneNumber,obj.Fullname,obj.Address);
-            //customerRepository.Update(customer);
             customer.Fullname = obj.Fullname;
             customer.PhoneNumber = obj.PhoneNumber;
             customer.Address = obj.Address;
 
             customerRepository.Update(customer);
-
             await customerRepository.SaveAsync();
-
-            //var dto = CustomerDTOConverter.ToCustomerDTO(customer);
             return Ok(customer);
         }
         [HttpDelete("{id}")]

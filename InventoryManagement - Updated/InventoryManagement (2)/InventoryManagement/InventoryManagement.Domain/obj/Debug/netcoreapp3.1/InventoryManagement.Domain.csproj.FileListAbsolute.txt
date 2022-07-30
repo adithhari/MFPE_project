@@ -77,3 +77,13 @@ C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\
 C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
 C:\Users\Sherin\Downloads\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.deps.json
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\bin\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.AssemblyInfo.cs
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.dll
+C:\Users\Sherin\Desktop\MFPE\InventoryManagement - Updated\InventoryManagement (2)\InventoryManagement\InventoryManagement.Domain\obj\Debug\netcoreapp3.1\InventoryManagement.Domain.pdb

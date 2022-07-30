@@ -11,9 +11,6 @@ namespace InventoryManagement.Domain.Aggregates.InventoryAggregates
         public virtual string CategoryName { get; set; }
         public virtual string CategoryDescription { get;  set; }
 
-        //public virtual IList<Product> Products { get; set; } = new List<Product>();
-
-
 
         public Category(string categoryName, string categoryDescription)
         {
@@ -22,16 +19,6 @@ namespace InventoryManagement.Domain.Aggregates.InventoryAggregates
         }
         private Category() { }
 
-
-        //public void AddProduct(Product newProduct)
-        //{
-        //    this.Products.Add(newProduct);
-        //}
-        //public void RemoveProduct(long productId)
-        //{
-        //    var product = Products.First(p => p.Id == productId);
-        //    this.Products.Remove(product);
-        //}
     }
 
 }

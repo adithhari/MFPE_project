@@ -37,7 +37,70 @@ namespace InventoryManagement.API.Tests
             Assert.That(result.StatusCode, Is.EqualTo(201));
         }
 
+        [Test]
+        public void Return_200StatusCode()
+        {
+            var repo = new Mock<IRepository<Category>>();
+            string CategoryName = "Electronics";
+            string CatgoryDescription = "Laptop";
 
+            repo.Setup(m => m.Get()).Returns(() =>
+            {
+                var category = new Category(CategoryName, CatgoryDescription);
+                return new List<Category>() { category };
+               
+            });
+
+            var repoObj = repo.Object;
+            var controller = new CategoryController(repoObj);
+            OkObjectResult result = (OkObjectResult)controller.GetCategory();
+            Assert.That(result.StatusCode, Is.EqualTo(200));
+        }
+
+        [Test]
+        public void Return_200StatusCode_WithDTO_ForValid_CategoryID()
+        {
+            var repo = new Mock<IRepository<Category>>();
+            string CategoryName = "Electronics";
+            string CatgoryDescription = "Laptop";
+
+            repo.Setup(m => m.GetById(It.IsAny<long>())).Returns(() =>
+            {
+                var category = new Category(CategoryName, CatgoryDescription);
+                return category;
+            });
+
+            var repoObj = repo.Object;
+            var controller = new CategoryController(repoObj);
+
+            OkObjectResult result = (OkObjectResult)controller.GetCategoryById(1);
+
+            Assert.That(result.StatusCode, Is.EqualTo(200));
+            Assert.That(result.Value, Is.InstanceOf<CategoryDTO>());
+
+            CategoryDTO dto = (CategoryDTO)result.Value;
+            Assert.That(dto.CategoryName, Is.EqualTo(CategoryName));
+        }
+
+        [Test]
+        public async Task Return_204StatusCode()
+        {
+            var repo = new Mock<IRepository<Category>>();
+            string CategoryName = "Electronics";
+            string CatgoryDescription = "Laptop";
+
+            repo.Setup(m => m.GetById(It.IsAny<long>())).Returns(() =>
+            {
+                var category = new Category(CategoryName, CatgoryDescription);
+                return category;
+            });
+
+            var repoObj = repo.Object;
+            var controller = new CategoryController(repoObj);
+
+            var result = (StatusCodeResult)await controller.DeleteCategory(1).ConfigureAwait(false);
+            Assert.That(result.StatusCode, Is.EqualTo(204));
+        }
     }
 }
 

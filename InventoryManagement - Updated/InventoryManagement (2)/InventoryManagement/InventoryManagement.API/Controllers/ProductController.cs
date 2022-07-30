@@ -27,7 +27,7 @@ namespace InventoryManagement.API.Controllers
 
         [HttpPost]
         [ProducesResponseType(201)]
-        public async Task<IActionResult> AddCategory(ProductDTO dto)
+        public async Task<IActionResult> AddProduct(ProductDTO dto)
         {
             var category = categoryRepository.GetById(dto.categoryId);
             var product = new Product(dto.Name, dto.Description, dto.AvailableQuantity, dto.Price, category);
@@ -40,7 +40,6 @@ namespace InventoryManagement.API.Controllers
 
         [HttpGet]
         [ProducesResponseType(200, Type = typeof(List<MergeDTO>))]
-        //[Authorize(Roles = "Admin")]
         public IActionResult GetAllProduct()
         {
             var spec = new GetAllProductsIncludingCategorySpecification();
