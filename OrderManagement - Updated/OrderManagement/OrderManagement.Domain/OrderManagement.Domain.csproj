@@ -5,13 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DomainEvents\**" />
     <Compile Remove="Specifications\**" />
+    <EmbeddedResource Remove="DomainEvents\**" />
     <EmbeddedResource Remove="Specifications\**" />
+    <None Remove="DomainEvents\**" />
     <None Remove="Specifications\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DomainEvents\" />
   </ItemGroup>
 
   <ItemGroup>

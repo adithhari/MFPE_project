@@ -27,8 +27,7 @@ namespace OrderManagement.API.Controllers
 
         [HttpPost]
         [ProducesResponseType(201)]
-
-        public async Task<IActionResult> AddCustomer(OrderDTO dto)
+        public async Task<IActionResult> AddOrder(OrderDTO dto)
         {
             var customer = new Orders(dto.CustomerId, dto.CustomerName, dto.PhoneNumber, dto.TotalAmount );
             Product product = null;
