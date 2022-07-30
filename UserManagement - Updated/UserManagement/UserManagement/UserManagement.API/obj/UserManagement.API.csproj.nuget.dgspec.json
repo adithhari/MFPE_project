@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sherin\\Desktop\\MFPE\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj": {}
+    "C:\\Users\\Sherin\\Desktop\\Project\\MFPE_project\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sherin\\Desktop\\MFPE\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj": {
+    "C:\\Users\\Sherin\\Desktop\\Project\\MFPE_project\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sherin\\Desktop\\MFPE\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
+        "projectUniqueName": "C:\\Users\\Sherin\\Desktop\\Project\\MFPE_project\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
         "projectName": "UserManagement.API",
-        "projectPath": "C:\\Users\\Sherin\\Desktop\\MFPE\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
+        "projectPath": "C:\\Users\\Sherin\\Desktop\\Project\\MFPE_project\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
         "packagesPath": "C:\\Users\\Sherin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sherin\\Desktop\\MFPE\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\obj\\",
+        "outputPath": "C:\\Users\\Sherin\\Desktop\\Project\\MFPE_project\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sherin\\AppData\\Roaming\\NuGet\\NuGet.Config",

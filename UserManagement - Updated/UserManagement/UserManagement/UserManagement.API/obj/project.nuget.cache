@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+DKcCJRsmXp3SMndq4Ch1FHzvDp3x8b91MOlpPS7dUwOEWu4Z8aJ+XHbDI3T+QO8623SwAvv+026YN6u0rGqQ==",
+  "dgSpecHash": "P/4SzH0KbK5PkgmDZ+YGmG2LyMv/BbSRxJFNaZpfds7yK9P4znkzDAkwHgBNzFkYR7ZhoeN/PoWCCmTq7grwww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sherin\\Desktop\\MFPE\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
+  "projectFilePath": "C:\\Users\\Sherin\\Desktop\\Project\\MFPE_project\\UserManagement - Updated\\UserManagement\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Sherin\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

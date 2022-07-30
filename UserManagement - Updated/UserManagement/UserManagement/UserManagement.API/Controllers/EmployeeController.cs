@@ -35,7 +35,6 @@ namespace UserManagement.API.Controllers
         }
 
         [HttpGet]
-        //[Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetEmployees()
         {
             var dtos = from User in userManager.Users
