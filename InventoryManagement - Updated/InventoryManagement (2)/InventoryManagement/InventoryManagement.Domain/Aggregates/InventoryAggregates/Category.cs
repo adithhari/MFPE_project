@@ -17,7 +17,7 @@ namespace InventoryManagement.Domain.Aggregates.InventoryAggregates
             this.CategoryName = categoryName;
             this.CategoryDescription = categoryDescription;
         }
-        private Category() { }
+        public Category() { }
 
     }
 
